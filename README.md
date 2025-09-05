@@ -59,7 +59,7 @@ ALIAS_ID=SQBPPDSI6L
 
 # Région
 
-eu-north-1b
+eu-north-1
 
 
 
